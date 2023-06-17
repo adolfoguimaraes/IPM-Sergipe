@@ -1,1 +1,1 @@
-# IPM-Sergipe
+# Índice de Pobreza Multidimensional em Sergipe
